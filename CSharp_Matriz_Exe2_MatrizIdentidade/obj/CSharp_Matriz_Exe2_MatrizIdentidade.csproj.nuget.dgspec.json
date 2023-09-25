@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\patya\\OneDrive\\Documentos\\Senac\\2ºPeriodo\\3ºbimestre\\Algoritmos e Programacao II\\CSharp_Exercicios_Senac\\CSharp_Matriz_Exe1_SomaDeMatrizes\\CSharp_Matriz_Exe1_SomaDeMatrizes.csproj": {}
+    "C:\\Users\\patya\\OneDrive\\Documentos\\Senac\\2ºPeriodo\\3ºbimestre\\Algoritmos e Programacao II\\CSharp_Exercicios_Senac\\CSharp_Matriz_Exe2_MatrizIdentidade\\CSharp_Matriz_Exe2_MatrizIdentidade.csproj": {}
   },
   "projects": {
-    "c:\\Users\\patya\\OneDrive\\Documentos\\Senac\\2ºPeriodo\\3ºbimestre\\Algoritmos e Programacao II\\CSharp_Exercicios_Senac\\CSharp_Matriz_Exe1_SomaDeMatrizes\\CSharp_Matriz_Exe1_SomaDeMatrizes.csproj": {
+    "C:\\Users\\patya\\OneDrive\\Documentos\\Senac\\2ºPeriodo\\3ºbimestre\\Algoritmos e Programacao II\\CSharp_Exercicios_Senac\\CSharp_Matriz_Exe2_MatrizIdentidade\\CSharp_Matriz_Exe2_MatrizIdentidade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\patya\\OneDrive\\Documentos\\Senac\\2ºPeriodo\\3ºbimestre\\Algoritmos e Programacao II\\CSharp_Exercicios_Senac\\CSharp_Matriz_Exe1_SomaDeMatrizes\\CSharp_Matriz_Exe1_SomaDeMatrizes.csproj",
-        "projectName": "CSharp_Matriz_Exe1_SomaDeMatrizes",
-        "projectPath": "c:\\Users\\patya\\OneDrive\\Documentos\\Senac\\2ºPeriodo\\3ºbimestre\\Algoritmos e Programacao II\\CSharp_Exercicios_Senac\\CSharp_Matriz_Exe1_SomaDeMatrizes\\CSharp_Matriz_Exe1_SomaDeMatrizes.csproj",
+        "projectUniqueName": "C:\\Users\\patya\\OneDrive\\Documentos\\Senac\\2ºPeriodo\\3ºbimestre\\Algoritmos e Programacao II\\CSharp_Exercicios_Senac\\CSharp_Matriz_Exe2_MatrizIdentidade\\CSharp_Matriz_Exe2_MatrizIdentidade.csproj",
+        "projectName": "CSharp_Matriz_Exe2_MatrizIdentidade",
+        "projectPath": "C:\\Users\\patya\\OneDrive\\Documentos\\Senac\\2ºPeriodo\\3ºbimestre\\Algoritmos e Programacao II\\CSharp_Exercicios_Senac\\CSharp_Matriz_Exe2_MatrizIdentidade\\CSharp_Matriz_Exe2_MatrizIdentidade.csproj",
         "packagesPath": "C:\\Users\\patya\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\patya\\OneDrive\\Documentos\\Senac\\2ºPeriodo\\3ºbimestre\\Algoritmos e Programacao II\\CSharp_Exercicios_Senac\\CSharp_Matriz_Exe1_SomaDeMatrizes\\obj\\",
+        "outputPath": "C:\\Users\\patya\\OneDrive\\Documentos\\Senac\\2ºPeriodo\\3ºbimestre\\Algoritmos e Programacao II\\CSharp_Exercicios_Senac\\CSharp_Matriz_Exe2_MatrizIdentidade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\patya\\AppData\\Roaming\\NuGet\\NuGet.Config"
