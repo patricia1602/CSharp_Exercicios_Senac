@@ -6,6 +6,7 @@ namespace CSharp_Vetor_Exe3_MaiorValorEmUmVetor
     {
         static void Main(string[] args)
         {
+            //Declare um vetor de inteiros com valores predefinidos. Encontre e imprima o maior valor presente no vetor.//
             //Um vetor de inteiros chamado numeros predefinidos
             int[] numeros = { 10, 5, 15, 20 };
             int maior = numeros[0];//Neste caso o maior iniciado com 10

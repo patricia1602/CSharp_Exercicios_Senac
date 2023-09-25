@@ -6,6 +6,7 @@ namespace CSharp_Vetor_Exe2_MediaDeValoresDeUmVetor
     {
         static void Main(string[] args)
         {
+            //Declare um vetor de inteiros com valores predefinidos. Calcule a média dos valores contidos no vetor e imprima o resultado na tela.//
             //Um vetor(5) de inteiros com valores predefinidos(total de 150)
             int[] valores = { 10, 20, 30, 40, 50 };
 

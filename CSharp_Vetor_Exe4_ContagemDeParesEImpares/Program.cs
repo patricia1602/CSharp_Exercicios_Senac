@@ -6,6 +6,7 @@ namespace CSharp_Vetor_Exe4_ContagemDeParesEImpares
     {
         static void Main(string[] args)
         {
+            //Declare um vetor de inteiros com valores predefinidos. Contabilize e imprima a quantidade de números pares e ímpares presentes no vetor.//
             //Um vetor com números predefinidos
             int[] valores = { 2, 3, 4, 5, 6, 7, 8, 9 };
             int pares = 0;
